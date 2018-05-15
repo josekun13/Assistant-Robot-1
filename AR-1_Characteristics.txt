@@ -1,0 +1,41 @@
+Asistant Robot - 1 characteristicts
+
+General
+ *Multi-propose
+ *Omni-directional
+ *Adaptable
+
+Electronics
+ *Microcontroller ATMEGA328pu
+ *Battery sensor
+ *Charge Sistem
+ *Ultrasonic sensors
+ *Encoders
+ *One battery
+ *One Power stage board
+ *Leds (because everithing is better with leds)
+ *IMU
+
+Structure
+ *Modular
+ *Easy Access
+ *Aluminum structure
+ *Adaptable
+ *Arm and Head
+
+Software
+ *Use ROS
+ **One Interface Node only (Two versions)
+ **Each version compatible with Debian(Raspbian)
+   and Ubuntu versions
+
+In consideration
+ *Mic
+ *Camera
+ *Speakers
+
+Capable of
+ *Test Navigation
+ *voice command operation
+ *(obey a very simple version of the three laws)
+ *Test Affective Computer algorithms
